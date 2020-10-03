@@ -1,0 +1,175 @@
+html {
+    scroll-behavior: smooth;
+}
+
+#home {
+
+}
+
+#about {
+
+}
+
+#projects {
+
+}
+
+#education {
+
+}
+
+#interests {
+
+}
+
+.fixed-sidebar {
+    height: 100%; 
+    min-width: 105px; 
+    background-color: #021800; 
+    color: #ffc700;
+}
+
+.fixed-sidebar-contents {
+    position: absolute; 
+    top: 50%; 
+    transform: translateY(-50%); 
+    width: 100%;
+}
+
+.whitespace-1 { 
+    height: 30vh;
+}
+
+.whitespace-2 {
+    height: 4vh;
+}
+
+.whitespace-3 {
+    height:35vh;
+}
+
+.whitespace-4 {
+    height: 20vh;
+}
+
+.color-1 {
+    color: #021800;
+}
+
+.color-2 {
+    color: #ffc700
+}
+
+.profile-picture {
+    height: 40vh; 
+    width: 40vh; 
+    min-width: 250px; 
+    min-height: 250px;
+}
+
+.titlename-div {
+    height: 40vh; min-height: 250px;
+}
+
+.title-prefix {
+    font-family: 'Caveat', sans-serif; 
+    font-size: 40px; 
+    font-weight: bold;  
+    margin-bottom: 0px;
+}
+
+.title-name-1 {
+    font-family: 'Caveat', sans-serif; 
+    font-size: 8vw; 
+    font-weight: bolder;
+}
+
+.title-name-2 {
+    font-family: 'Caveat', sans-serif; 
+    font-size: 6vw; 
+    font-weight: bold;
+}
+
+.title-name-3 {
+    font-family: 'Caveat', sans-serif; 
+    font-size: 60px; 
+    font-weight: bold;
+}
+
+.title-name-4 {
+    font-family: 'Caveat', sans-serif; 
+    font-size: 37px; 
+    font-weight: bold;
+}
+
+.title-1 {
+    font-family: 'Caveat', sans-serif; 
+    font-size: 100px; 
+    font-weight: bold;  
+    margin-bottom: 0px;
+}
+
+.title-2 {
+    font-family: 'Caveat', sans-serif; 
+    font-size: 60px; 
+    font-weight: bold;  
+    margin-bottom: 0px;
+}
+
+.content {
+    font-family: Roboto Slab;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.content-2 {
+    font-family: Roboto Slab;
+    font-size: 20px;
+}
+
+.dark-background {
+    background-color: #000D00;
+    width: 100%;
+    height: fit-content;
+}
+
+.headshot {
+    height: 30vh; 
+    width: 30vh; 
+    min-width: 200px; 
+    min-height: 200px;
+}
+
+.makara {
+    width: 200px;
+}
+
+.rektorat {
+    width: 60%;
+    min-width: 400px;
+}
+
+.education-group {
+    height: 100vh;
+    max-width: 100%;
+}
+
+.icon {
+    width: 100%;
+    min-width: 60px;
+    max-width: 90px;
+}
+
+.project-picture {
+    width: 90%;
+}
+
+.album {
+    width: 100%;
+    margin: 10px;
+    border: 3px solid #021800;
+}
+
+.album-bg {
+    background-color: #000D00;
+}
